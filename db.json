@@ -1,24 +1,5 @@
 {"aitools":[
     {
-        "_createdAt": "2022-11-04T15:02:12Z",
-        "_id": "5124d837-f0be-49c4-b922-c879928376d0",
-        "_rev": "h5S8Zv8xPUpA8CF4ZIact9",
-        "_type": "tool",
-        "_updatedAt": "2023-02-06T00:38:01Z",
-        "defunct": {
-            "defunctReason": "No Longer Available",
-            "defunctStatus": false
-        },
-        "duplicate": false,
-        "favCount": 1324,
-        "id": "5124d837-f0be-49c4-b922-c879928376d0",
-        "mainImage": {
-            "_type": "image",
-            "asset": {
-                "_ref": "image-4dc642d29507d2e460bbcf47a815af9846729b70-1680x876-png",
-                "_type": "reference"
-            }
-        },
         "newFeatures": [
             "API"
         ],
@@ -37,38 +18,6 @@
         "status": "Published",
         "tagsIndex": [
             "video-generator"
-        ],
-        "toolCategories": [
-            {
-                "_createdAt": "2023-01-01T18:45:50Z",
-                "_id": "kxHCIyVPfR3nkfRNFsIbbw",
-                "_rev": "UnZ2THkIAtRzfNq86Wi9g8",
-                "_type": "toolCategory",
-                "_updatedAt": "2023-01-01T19:01:23Z",
-                "categoryCode": "video-1",
-                "categoryName": "video generator",
-                "relatedCategories": [
-                    {
-                        "_key": "pbVx23Uct8BFJWoTGLUb4q",
-                        "_ref": "UnZ2THkIAtRzfNq86WfrII",
-                        "_type": "reference"
-                    },
-                    {
-                        "_key": "b4woo4NyLzk7WLJRGAmg8H",
-                        "_ref": "kxHCIyVPfR3nkfRNFsId7U",
-                        "_type": "reference"
-                    },
-                    {
-                        "_key": "3rhwNLcWJNPdENVJS6gYgS",
-                        "_ref": "kxHCIyVPfR3nkfRNFsIHgS",
-                        "_type": "reference"
-                    }
-                ],
-                "slug": {
-                    "_type": "slug",
-                    "current": "video-generator"
-                }
-            }
         ],
         "toolDescription": "Create videos from scripts or blog posts using realistic voices in 2 minutes!\nTransform blog articles into videos. Lifelike Text to Speech Voices. Rich stock media library.\nTrusted by 30k+ content creators from companies like Google, Meta, Bytedance and Upwork.\n",
         "toolName": "Fliki",
