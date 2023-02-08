@@ -25,5 +25,32 @@
         "verified": true,
         "verifiedReason": "Recommended",
         "websiteUrl": "https://fliki.ai/?via=futurepedia"
+    },
+    {
+        "newFeatures": [
+            "API"
+        ],
+        "pricing": [
+            "Freemium"
+        ],
+        "publishedAt": "2022-11-04T15:02:12Z",
+        "publishedAt_timestamp": 1667574132000,
+        "searchTermForReview": "Fliki AI reviews",
+        "slug": {
+            "_type": "slug",
+            "current": "fliki"
+        },
+        "slugIndex": "fliki",
+        "startingPrice": "29/mo",
+        "status": "Published",
+        "tagsIndex": [
+            "video-generator"
+        ],
+        "toolDescription": "Create videos from scripts or blog posts using realistic voices in 2 minutes!\nTransform blog articles into videos. Lifelike Text to Speech Voices. Rich stock media library.\nTrusted by 30k+ content creators from companies like Google, Meta, Bytedance and Upwork.\n",
+        "toolName": "Fliki",
+        "toolShortDescription": "Create videos from blog posts in 2 mins",
+        "verified": true,
+        "verifiedReason": "Recommended",
+        "websiteUrl": "https://fliki.ai/?via=futurepedia"
     }
 ]}
