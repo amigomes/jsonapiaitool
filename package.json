@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
+    "build": "react-scripts build",
     "deploy": "gh-pages -d build",
-    "start": "json-server db.json"
+    "start": "react-scripts start",
+    "server": "npx json-server --watch db.json --port=3001"
   },
   "repository": {
     "type": "git",
@@ -18,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/amigomes/jsonapiaitool/issues"
   },
-  "homepage": "https://github.com/amigomes/jsonapiaitool",
+  "homepage": "https://amigomes.github.io/jsonapiaitool",
   "dependencies": {
     "json-server": "^0.17.1"
   },
